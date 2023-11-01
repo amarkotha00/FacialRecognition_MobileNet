@@ -1,2 +1,2 @@
 # Facial-Recognition
-Facial Recognition using a Deep Learning Model, MobileNet.
+Facial Recognition using a Convolutional Neural Network Model, MobileNet.
